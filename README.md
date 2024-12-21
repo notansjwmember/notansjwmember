@@ -36,6 +36,11 @@
       {
          "name": "Student Portal",
          "techStack": ["React", "NestJS", "MongoDB"],
+         "status": "Idle"
+      },
+      {
+         "name": "Ta(sk)rub",
+         "techStack": ["Vue", "NestJS", "Supabase"],
          "status": "Active"
       }
    ],
