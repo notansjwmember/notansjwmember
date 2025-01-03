@@ -32,18 +32,7 @@
       "real": ["English", "Tagalog"]
    },
    "interests:": ["singsing", "biking", "coding"],
-   "currentProjects": [
-      {
-         "name": "Student Portal",
-         "techStack": ["React", "NestJS", "MongoDB"],
-         "status": "Idle"
-      },
-      {
-         "name": "Ta(sk)rub",
-         "techStack": ["Vue", "NestJS", "Supabase"],
-         "status": "Active"
-      }
-   ],
+   "currentProjects": "Thinking of a new project..",
    "goal": "Peace of mind above everything."
 }
 ```
