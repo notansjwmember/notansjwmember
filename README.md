@@ -28,7 +28,7 @@
    "author": "Caenar Arteta",
    "languages": {
       "programming": ["JavaScript", "Python", "Java"],
-      "markup": ["HTML", "CSS", "SVG", "Markdown"],
+      "markup": ["HTML", "CSS", "SVG", "Markdown", "XML", "YAML"],
       "real": ["English", "Tagalog"]
    },
    "interests:": ["singsing", "biking", "coding"],
