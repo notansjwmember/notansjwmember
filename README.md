@@ -2,15 +2,15 @@
 {
    "name": "profile",
    "version": "4.0.0",
-   "description": "Memento mori, so I pretty much make the most of it.",
+   "description": "An introspective mind that brings both clarity and chaos",
    "author": "Caenar Arteta",
    "languages": {
-      "programming": ["JavaScript", "Python", "Java"],
-      "markup": ["HTML", "CSS", "SVG", "Markdown", "XML", "YAML"],
+      "programming": ["JS/TS", "Dart", "Python", "Java", "PHP"],
+      "markup": ["HTML", "CSS", "SVG", "Markdown", "XML", "YML"],
       "real": ["English", "Tagalog"]
    },
-   "interests:": ["singsing", "biking", "coding"],
-   "currentProjects": "Thinking of a new project..",
+   "interests:": ["coding"],
+   "currentProjects": "E.L.F",
    "goal": "Peace of mind above everything."
 }
 ```
